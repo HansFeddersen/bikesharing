@@ -6,7 +6,7 @@ Data Bootcamp Module 14: Tableau
 
 All the visualizations can be found in the following link:
 
-[link to dashboard]([LINK GOES HERE](https://public.tableau.com/app/profile/hans.feddersen/viz/Challenge_16536741938700/Story1?publish=yes))
+[link to dashboard][(https://public.tableau.com/app/profile/hans.feddersen/viz/Challenge_16536741938700/Story1?publish=yes)]
 
 ## Results
 
